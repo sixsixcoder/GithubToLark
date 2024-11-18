@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```
 python robot.py
 ```
+
+# TODO
+统计多个github仓库的star总数量变化
