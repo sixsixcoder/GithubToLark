@@ -1,0 +1,2 @@
+openai==1.46.0
+schedule==1.2.2
