@@ -1,0 +1,32 @@
+
+# 飞书配置
+feishu:
+  robot: 
+  card_template_id: 
+  card_template_version_name: 
+  card_sign: 
+
+# github 配置
+github:
+  token: 
+# repo 可以是列表
+  repo:
+
+# 大模型配置
+llm:
+  api_key: 
+  base_url: 
+  model: 
+
+# 日志配置
+log:
+  filename: 
+
+# 时间配置
+time:
+  start_time: 
+  end_time: 
+  # interval是int类型
+  interval: 
+
+
