@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     filename="issues.log",  # 日志文件名
-                    filemode='a')  # 文件模式，'a'表示追加
+                    filemode='a')  
 
 logger = logging.getLogger('GithubIssuesLog')
 
